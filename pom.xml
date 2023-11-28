@@ -12,7 +12,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>jdev.mentoria.lojavirtual</groupId>
+	<groupId>com.slbruno</groupId>
 	<artifactId>loja_virtual_mentoria</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>loja_virtual_mentoria</name>
